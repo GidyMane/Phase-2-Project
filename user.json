@@ -1,0 +1,22 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "mark kibocha",
+      "email": "kibochamark@gmail.com",
+      "password": "kibo4001."
+    },
+    {
+      "name": "Mark varu kibocha",
+      "email": "regexmark1@gmail.com",
+      "password": " nvbn",
+      "id": 2
+    },
+    {
+      "name": "kilimo",
+      "email": "kilimo@gmail.com",
+      "password": "123",
+      "id": 3
+    }
+  ]
+}
