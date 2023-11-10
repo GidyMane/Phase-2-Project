@@ -1,0 +1,204 @@
+{
+    "plants": [
+      {
+        "id": 1,
+        "name": "Succulent Mix",
+        "description": "A collection of assorted succulent plants.",
+        "price": 19.99,
+        "image": "https://media.istockphoto.com/id/1471445380/photo/isolated-artificial-cactus-succulent-plant-in-clay-pot.webp?b=1&s=170667a&w=0&k=20&c=ZKdziyb0NPOugaebLvkj24S4grnr1LXB7XHc0N9lMA0=",
+        "category": "Succulents",
+        "stock": 50
+      },
+      {
+        "id": 2,
+        "name": "Fiddle Leaf Fig",
+        "description": "Tall indoor plant with large, fiddle-shaped leaves.",
+        "price": 34.99,
+        "image": "https://media.istockphoto.com/id/1469652794/photo/modern-trendy-green-plants.webp?b=1&s=170667a&w=0&k=20&c=006BBZZ0VNHgcIsddCVN5f55rXdN3PquRiIh8tFkWF4=",
+        "category": "Houseplants",
+        "stock": 25
+      },
+      {
+        "id": 3,
+        "name": "Lavender",
+        "description": "Fragrant purple flowering herb used in aromatherapy.",
+        "price": 8.99,
+        "image": "https://media.istockphoto.com/id/1401505349/photo/lavender-flowers-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=VeAsiz14Tz8v1PqTJ3htDzgn2BiFiHIvSMTslY-Iz1w=",
+        "category": "Herbs",
+        "stock": 40
+      },
+      {
+        "id": 4,
+        "name": "Snake Plant",
+        "description": "Hardy indoor plant with upright, sword-like leaves.",
+        "price": 12.49,
+        "image": "https://media.istockphoto.com/id/1168381749/photo/sansevieria-trifasciata-in-a-pot-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=efBnIp1k54xLUpOlVn6ML2Sz0yPQbGtX_ygAl5FxJ7k=",
+        "category": "Houseplants",
+        "stock": 30
+      },
+      {
+        "id": 5,
+        "name": "Monstera Deliciosa",
+        "description": "Large, tropical plant with iconic split leaves.",
+        "price": 29.99,
+        "image": "https://media.istockphoto.com/id/1254913138/photo/giant-monstera-tree-in-flowerpot-isolated-on-white-background-with-clipping-path.webp?b=1&s=170667a&w=0&k=20&c=2vMB0oMKFI4ju18ZP9OU3pSgvX2Ilhh4RMQeWdms9M8=",
+        "category": "Houseplants",
+        "stock": 15
+      },
+      {
+        "id": 6,
+        "name": "Rosemary",
+        "description": "Aromatic herb often used in cooking and aromatherapy.",
+        "price": 6.49,
+        "image": "https://media.istockphoto.com/id/1277221962/photo/rosemary-planted-in-a-watering-can.webp?b=1&s=170667a&w=0&k=20&c=hcV7DBh2d8TVe6MsyKjDKjFc3y8Jo2_r5Bh1vC-mhKo=",
+        "category": "Herbs",
+        "stock": 55
+      },
+      {
+        "id": 7,
+        "name": "Aloe Vera",
+        "description": "Succulent plant known for its soothing gel.",
+        "price": 10.99,
+        "image": "https://media.istockphoto.com/id/1256485225/photo/perfect-aloe-vera-tree-planted-in-a-white-pot-outside.webp?b=1&s=170667a&w=0&k=20&c=JpSTewhQcyvOHHdG4DAZ2jbJsjEdb4krdOdCYsTBtYA=",
+        "category": "Succulents",
+        "stock": 20
+      },
+      {
+        "id": 8,
+        "name": "Peace Lily",
+        "description": "Indoor plant with glossy green leaves and white flowers.",
+        "price": 18.75,
+        "image": "https://media.istockphoto.com/id/1154381500/photo/green-plant-isolated-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=GGOag46GfaOLD4TzrwEo1NbQzAHxAuklJxLoq6IzxX8=",
+        "category": "Houseplants",
+        "stock": 12
+      },
+      {
+        "id": 9,
+        "name": "Mint",
+        "description": "Refreshing herb commonly used in beverages and desserts.",
+        "price": 5.99,
+        "image": "https://media.istockphoto.com/id/1456297861/photo/alocasia-macrorrhizos-in-a-white-pot-planted-as-an-ornamental-plant.webp?b=1&s=170667a&w=0&k=20&c=HSOhHf1iKGO9EaBzFOm0uS7PyqIaT0soCHw2rnVaCEQ=",
+        "category": "Herbs",
+        "stock": 30
+      },
+      {
+        "id": 10,
+        "name": "Spider Plant",
+        "description": "Air-purifying plant with arching leaves and baby plantlets.",
+        "price": 7.99,
+        "image": "https://media.istockphoto.com/id/1357488052/photo/spider-plant-in-vase.webp?b=1&s=170667a&w=0&k=20&c=80OuZ8bm4stS-tb3w0iz5pIYcV8VzCc38Thm0gNOlkE=",
+        "category": "Houseplants",
+        "stock": 28
+      },
+      {
+        "id": 11,
+        "name": "Pothos",
+        "description": "Low-maintenance trailing plant with heart-shaped leaves.",
+        "price": 9.25,
+        "image": "https://media.istockphoto.com/id/1361861209/photo/epipremnum-aureum-plant-in-pot.webp?b=1&s=170667a&w=0&k=20&c=EIHC3EdHdcU067JQoRY7jBrBkUXzslGyZvJxb7_G2EA=",
+        "category": "Houseplants",
+        "stock": 33
+      },
+      {
+        "id": 12,
+        "name": "Lemon Balm",
+        "description": "Citrus-scented herb used in teas and culinary dishes.",
+        "price": 4.75,
+        "image": "https://media.istockphoto.com/id/908499482/photo/close-up-peppermint-planted-in-pots-on-white-background.webp?b=1&s=170667a&w=0&k=20&c=qhz4BZOR3iYx0F6UmR2WyHAbdtsSTyBp2pvok7XAypk=",
+        "category": "Herbs",
+        "stock": 22
+      },
+      {
+        "id": 13,
+        "name": "Cactus Assortment",
+        "description": "Assorted small cacti in decorative pots.",
+        "price": 14.99,
+        "image": "https://media.istockphoto.com/id/1475116099/photo/three-different-home-cactus-in-white-pots-on-a-white-background.webp?b=1&s=170667a&w=0&k=20&c=N1kQH16RhopZp7ShrGMgMF_TdoRxF12snYdRm4UTlBs=",
+        "category": "Succulents",
+        "stock": 18
+      },
+      {
+        "id": 14,
+        "name": "Bamboo Palm",
+        "description": "Tropical palm plant with feathery, bamboo-like leaves.",
+        "price": 22.99,
+        "image": "https://media.istockphoto.com/id/169945272/photo/areca-palm-in-a-clay-pot-on-a-white-background.webp?b=1&s=170667a&w=0&k=20&c=l_gLjaskm2ha4pwken4dejWpFifSHixsyFg7QBtE3fI=",
+        "category": "Houseplants",
+        "stock": 10
+      },
+      {
+        "id": 15,
+        "name": "Chives",
+        "description": "Flavorful herb often used as a garnish in dishes.",
+        "price": 3.99,
+        "image": "https://media.istockphoto.com/id/535913979/photo/chives-in-a-clay-pot.webp?b=1&s=170667a&w=0&k=20&c=1-tGFdb8nv4etlTyUvIosDH9WCm13pd10P7yXaOa2_0=",
+        "category": "Herbs",
+        "stock": 45
+      },
+      {
+        "id": 16,
+        "name": "Pilea Peperomioides",
+        "description": "Distinctive plant with round leaves on long stems.",
+        "price": 16.49,
+        "image": "https://media.istockphoto.com/id/1340461282/photo/pilea-peperomioides-in-a-white-pot-against-a-white-background.webp?b=1&s=170667a&w=0&k=20&c=SBE-37fHC2Xp9-Up3-YvXSCNgOH3TANFNBtPasIGIHI=",
+        "category": "Houseplants",
+        "stock": 14
+      },
+      {
+        "id": 17,
+        "name": "Lavender Sage",
+        "description": "Hybrid herb with the calming scent of lavender.",
+        "price": 7.75,
+        "image": "https://media.istockphoto.com/id/592670310/photo/lavender-and-sage-isolated-on-white.webp?b=1&s=170667a&w=0&k=20&c=8FVCeeihahmk152L5xEFlBfKPGWJfXugUjIEWQtlv3Y=",
+        "category": "Herbs",
+        "stock": 27
+      },
+      {
+        "id": 18,
+        "name": "Rubber Plant",
+        "description": "Durable plant with glossy leaves and air-purifying qualities.",
+        "price": 21.49,
+        "image": "https://media.istockphoto.com/id/146961490/photo/rubber-plant.webp?b=1&s=170667a&w=0&k=20&c=NIg4QPsyigUer5-f05bJpU0cnGEyA3NZvUZ9ccxhFcU=",
+        "category": "Houseplants",
+        "stock": 16
+      },
+      {
+        "id": 19,
+        "name": "Thyme",
+        "description": "Aromatic herb used in cooking and herbal remedies.",
+        "price": 4.25,
+        "image": "https://media.istockphoto.com/id/1285345782/photo/thyme-planted-in-a-flower-pot.webp?b=1&s=170667a&w=0&k=20&c=MvmllJ83EAGKyjNBO7GiPuIo2lx9wv4OgekDnc9oHVM=",
+        "category": "Herbs",
+        "stock": 38
+      },
+      {
+        "id": 20,
+        "name": "African Violet",
+        "description": "Small indoor plant with vibrant purple flowers.",
+        "price": 11.99,
+        "image": "https://media.istockphoto.com/id/114396954/photo/african-violet-flower-in-pot.webp?b=1&s=170667a&w=0&k=20&c=iL57VzShPo_DGUsRctO45xrAJmfOFYVu2e1z3ybUg68=",
+        "category": "Houseplants",
+        "stock": 8
+      }
+    ],
+    "users": [
+      {
+        "id": 1,
+        "name": "mark kibocha",
+        "email": "kibochamark@gmail.com",
+        "password": "kibo4001."
+      },
+      {
+        "name": "Mark varu kibocha",
+        "email": "regexmark1@gmail.com",
+        "password": " nvbn",
+        "id": 2
+      },
+      {
+        "name": "kilimo",
+        "email": "kilimo@gmail.com",
+        "password": "123",
+        "id": 3
+      }
+    ]
+  }
